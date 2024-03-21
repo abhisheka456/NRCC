@@ -1,12 +1,3 @@
-# -*- coding: UTF-8 -*-
-'''
-@Project : ProPos 
-@File    : byol.py
-@Author  : Zhizhong Huang from Fudan University
-@Homepage: https://hzzone.github.io/
-@Email   : zzhuang19@fudan.edu.cn
-@Date    : 2022/10/19 9:26 PM 
-'''
 
 import argparse
 import copy
