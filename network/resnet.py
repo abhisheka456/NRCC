@@ -1,12 +1,5 @@
 # -*- coding: UTF-8 -*-
-'''
-@Project : ProPos 
-@File    : resnet18.py
-@Author  : Zhizhong Huang from Fudan University
-@Homepage: https://hzzone.github.io/
-@Email   : zzhuang19@fudan.edu.cn
-@Date    : 2022/10/19 9:25 PM 
-'''
+
 
 import torch.nn as nn
 from torchvision.models import resnet
