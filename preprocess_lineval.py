@@ -1,12 +1,5 @@
 # -*- coding: UTF-8 -*-
-'''
-@Project : ProPos 
-@File    : preprocess_example.py
-@Author  : Zhizhong Huang from Fudan University
-@Homepage: https://hzzone.github.io/
-@Email   : zzhuang19@fudan.edu.cn
-@Date    : 2022/10/20 1:03 PM 
-'''
+
 import torch
 
 from models.psclr.psclr_wrapper import PSCLRWrapper
