@@ -1,12 +1,5 @@
 # -*- coding: UTF-8 -*-
-'''
-@Project : ProPos 
-@File    : loggerx.py
-@Author  : Zhizhong Huang from Fudan University
-@Homepage: https://hzzone.github.io/
-@Email   : zzhuang19@fudan.edu.cn
-@Date    : 2022/10/19 8:47 PM 
-'''
+
 import torch
 import numpy as np
 from torch import nn
