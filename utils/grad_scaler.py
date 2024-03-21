@@ -1,12 +1,5 @@
 # -*- coding: UTF-8 -*-
-'''
-@Project : ICLR2022_Codes 
-@File    : grad_scaler.py
-@Author  : Zhizhong Huang from Fudan University
-@Homepage: https://hzzone.github.io/
-@Email   : zzhuang19@fudan.edu.cn
-@Date    : 2022/1/18 8:29 PM 
-'''
+
 import torch
 # from torch._six import inf
 from torch import inf
