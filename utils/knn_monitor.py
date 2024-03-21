@@ -1,12 +1,5 @@
 # -*- coding: UTF-8 -*-
-'''
-@Project : ProPos 
-@File    : knn_monitor.py
-@Author  : Zhizhong Huang from Fudan University
-@Homepage: https://hzzone.github.io/
-@Email   : zzhuang19@fudan.edu.cn
-@Date    : 2022/10/19 9:23 PM 
-'''
+
 
 import torch
 import tqdm
