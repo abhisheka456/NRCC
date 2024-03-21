@@ -1,12 +1,5 @@
 # -*- coding: UTF-8 -*-
-'''
-@Project : ProPos 
-@File    : byol_wrapper.py
-@Author  : Zhizhong Huang from Fudan University
-@Homepage: https://hzzone.github.io/
-@Email   : zzhuang19@fudan.edu.cn
-@Date    : 2022/10/19 9:26 PM 
-'''
+
 
 import torch
 import torch.nn as nn
